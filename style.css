@@ -8,7 +8,7 @@
 
 header {
     position: relative;
-  background-image: url(/Imgs/banner.png);
+  background-image: url(banner.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -411,7 +411,7 @@ nav ul a {
     content: "";
     width: 100%;
     top: -122px;
-    background: url(/Imgs/bottom_cross5.png);
+    background: url(bottom_cross5.png);
     background-repeat: no-repeat;
     height: 177px;
 }
